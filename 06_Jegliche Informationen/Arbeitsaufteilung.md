@@ -12,11 +12,12 @@
 	 - Nutzer
 	 - Nutzerpasswort ändern
  - Tobi
-	 - Abrufen von Tabellendaten
-	 - Filter
-	 - Benutzergruppen
-	 - Payroll Spalten
-Can i edit ? 
+	- Abrufen von Tabellendaten
+	- Filter
+	- Benutzergruppen
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1MzE4MjUxMDFdfQ==
 -->
